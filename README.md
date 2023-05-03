@@ -3,5 +3,5 @@
 >Conhecimentos adquiridos:
 * Kotlin
 * Java 
-* Spring boot
+* Spring 
 * Docker
